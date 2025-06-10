@@ -2,4 +2,5 @@
 
 🌍Geography, 🗺️Maps, 📡Remote Sensing, 💻Web Development
 
-HTML, CSS, JavaScript, Sveltekit, Python, SQL
+JavaScript, SvelteKit, Python, SQL, R
+
